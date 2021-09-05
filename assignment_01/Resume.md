@@ -19,7 +19,7 @@
 - Used Data Modelling a standard, consistent, predictable manner to manage is as a source
 - Backend development using Django framework modules to create applictions and websites
 
-***PHP-Intern                                             May 2019 - July 2019
+*** PHP-Intern                                             May 2019 - July 2019
 - Used Codeignitor Framework and designed user registration and login platforms
 - Perfomed search and pagination using jQuery
 
