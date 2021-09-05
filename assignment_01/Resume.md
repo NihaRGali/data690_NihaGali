@@ -15,18 +15,18 @@
 
 #### !! WORK EXPERIENCE !!
 
-***Python/Django Developer - Intern                       September 2020 - January 2021
+***Python/Django Developer - Intern                       September 2020 - January 2021***
 - Used Data Modelling a standard, consistent, predictable manner to manage is as a source
 - Backend development using Django framework modules to create applictions and websites
 
-*** PHP-Intern                                             May 2019 - July 2019
+***PHP-Intern                                             May 2019 - July 2019***
 - Used Codeignitor Framework and designed user registration and login platforms
 - Perfomed search and pagination using jQuery
 
 #### !! PROJECTS !!
 
-***Predicting early reviews for effective product marketing online
-***Text Summarizer Application with Natural Language Processing Tool Kit
+***Predicting early reviews for effective product marketing online***
+***Text Summarizer Application with Natural Language Processing Tool Kit***
 
 #### !! CERTIFICATIONS !!
 
