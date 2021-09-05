@@ -26,6 +26,7 @@
 #### !! PROJECTS !!
 
 ***Predicting early reviews for effective product marketing online***
+
 ***Text Summarizer Application with Natural Language Processing Tool Kit***
 
 #### !! CERTIFICATIONS !!
