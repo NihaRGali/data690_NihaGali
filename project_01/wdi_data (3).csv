@@ -1,0 +1,496 @@
+,Year,value,indicator,Country Code,Country Name,Region,Income Group,Lending Type
+0,2005,10988.9583886751,NY.GDP.PCAP.PP.CD,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+1,2006,11642.4441322339,NY.GDP.PCAP.PP.CD,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+2,2007,12549.9278491047,NY.GDP.PCAP.PP.CD,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+3,2008,13312.7634156723,NY.GDP.PCAP.PP.CD,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+4,2009,13269.1187769759,NY.GDP.PCAP.PP.CD,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+5,2010,14299.5515511075,NY.GDP.PCAP.PP.CD,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+6,2011,15040.0576497945,NY.GDP.PCAP.PP.CD,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+7,2012,15046.2901818178,NY.GDP.PCAP.PP.CD,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+8,2013,15588.7261289148,NY.GDP.PCAP.PP.CD,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+9,2014,15718.5649500141,NY.GDP.PCAP.PP.CD,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+10,2015,14744.1136344696,NY.GDP.PCAP.PP.CD,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+11,2005,5053.9457981019,NY.GDP.PCAP.PP.CD,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+12,2006,5836.5734366787,NY.GDP.PCAP.PP.CD,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+13,2007,6810.6039001003,NY.GDP.PCAP.PP.CD,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+14,2008,7574.2244550434,NY.GDP.PCAP.PP.CD,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+15,2009,8307.8495189643,NY.GDP.PCAP.PP.CD,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+16,2010,9253.7651877121,NY.GDP.PCAP.PP.CD,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+17,2011,10299.8706939935,NY.GDP.PCAP.PP.CD,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+18,2012,11197.5969363537,NY.GDP.PCAP.PP.CD,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+19,2013,11923.7526189386,NY.GDP.PCAP.PP.CD,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+20,2014,12549.7718312977,NY.GDP.PCAP.PP.CD,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+21,2015,12978.7689105655,NY.GDP.PCAP.PP.CD,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+22,2005,31794.0960095207,NY.GDP.PCAP.PP.CD,DEU,Germany,Europe & Central Asia,High income,Not classified
+23,2006,34114.6212431731,NY.GDP.PCAP.PP.CD,DEU,Germany,Europe & Central Asia,High income,Not classified
+24,2007,36243.4604251244,NY.GDP.PCAP.PP.CD,DEU,Germany,Europe & Central Asia,High income,Not classified
+25,2008,37802.3874303197,NY.GDP.PCAP.PP.CD,DEU,Germany,Europe & Central Asia,High income,Not classified
+26,2009,36842.9161976042,NY.GDP.PCAP.PP.CD,DEU,Germany,Europe & Central Asia,High income,Not classified
+27,2010,38982.4263045636,NY.GDP.PCAP.PP.CD,DEU,Germany,Europe & Central Asia,High income,Not classified
+28,2011,42541.5310884096,NY.GDP.PCAP.PP.CD,DEU,Germany,Europe & Central Asia,High income,Not classified
+29,2012,43359.6148271723,NY.GDP.PCAP.PP.CD,DEU,Germany,Europe & Central Asia,High income,Not classified
+30,2013,44993.8927459315,NY.GDP.PCAP.PP.CD,DEU,Germany,Europe & Central Asia,High income,Not classified
+31,2014,47011.5510935131,NY.GDP.PCAP.PP.CD,DEU,Germany,Europe & Central Asia,High income,Not classified
+32,2015,47609.7810045816,NY.GDP.PCAP.PP.CD,DEU,Germany,Europe & Central Asia,High income,Not classified
+33,2005,2953.1092589128,NY.GDP.PCAP.PP.CD,IND,India,South Asia,Lower middle income,IBRD
+34,2006,3237.2947993586,NY.GDP.PCAP.PP.CD,IND,India,South Asia,Lower middle income,IBRD
+35,2007,3525.3144536006,NY.GDP.PCAP.PP.CD,IND,India,South Asia,Lower middle income,IBRD
+36,2008,3650.9429432197,NY.GDP.PCAP.PP.CD,IND,India,South Asia,Lower middle income,IBRD
+37,2009,3912.4182114262,NY.GDP.PCAP.PP.CD,IND,India,South Asia,Lower middle income,IBRD
+38,2010,4236.7443479487,NY.GDP.PCAP.PP.CD,IND,India,South Asia,Lower middle income,IBRD
+39,2011,4493.6694656771,NY.GDP.PCAP.PP.CD,IND,India,South Asia,Lower middle income,IBRD
+40,2012,4861.1561523634,NY.GDP.PCAP.PP.CD,IND,India,South Asia,Lower middle income,IBRD
+41,2013,5057.2334137479,NY.GDP.PCAP.PP.CD,IND,India,South Asia,Lower middle income,IBRD
+42,2014,5233.8823425151,NY.GDP.PCAP.PP.CD,IND,India,South Asia,Lower middle income,IBRD
+43,2015,5464.859178008,NY.GDP.PCAP.PP.CD,IND,India,South Asia,Lower middle income,IBRD
+44,2005,6254.6143820115,NY.GDP.PCAP.PP.CD,IDN,Indonesia,East Asia & Pacific,Lower middle income,IBRD
+45,2006,6708.5755939491,NY.GDP.PCAP.PP.CD,IDN,Indonesia,East Asia & Pacific,Lower middle income,IBRD
+46,2007,7229.5382817462,NY.GDP.PCAP.PP.CD,IDN,Indonesia,East Asia & Pacific,Lower middle income,IBRD
+47,2008,7710.6663041196,NY.GDP.PCAP.PP.CD,IDN,Indonesia,East Asia & Pacific,Lower middle income,IBRD
+48,2009,8021.7480651122,NY.GDP.PCAP.PP.CD,IDN,Indonesia,East Asia & Pacific,Lower middle income,IBRD
+49,2010,8505.7481480189,NY.GDP.PCAP.PP.CD,IDN,Indonesia,East Asia & Pacific,Lower middle income,IBRD
+50,2011,9095.7417229551,NY.GDP.PCAP.PP.CD,IDN,Indonesia,East Asia & Pacific,Lower middle income,IBRD
+51,2012,9713.9004873063,NY.GDP.PCAP.PP.CD,IDN,Indonesia,East Asia & Pacific,Lower middle income,IBRD
+52,2013,10067.465744305,NY.GDP.PCAP.PP.CD,IDN,Indonesia,East Asia & Pacific,Lower middle income,IBRD
+53,2014,10278.1773057998,NY.GDP.PCAP.PP.CD,IDN,Indonesia,East Asia & Pacific,Lower middle income,IBRD
+54,2015,10247.2063381531,NY.GDP.PCAP.PP.CD,IDN,Indonesia,East Asia & Pacific,Lower middle income,IBRD
+55,2005,31663.4530989772,NY.GDP.PCAP.PP.CD,JPN,Japan,East Asia & Pacific,High income,Not classified
+56,2006,33090.1962558485,NY.GDP.PCAP.PP.CD,JPN,Japan,East Asia & Pacific,High income,Not classified
+57,2007,34501.5090143849,NY.GDP.PCAP.PP.CD,JPN,Japan,East Asia & Pacific,High income,Not classified
+58,2008,34798.7658977271,NY.GDP.PCAP.PP.CD,JPN,Japan,East Asia & Pacific,High income,Not classified
+59,2009,33198.6164013794,NY.GDP.PCAP.PP.CD,JPN,Japan,East Asia & Pacific,High income,Not classified
+60,2010,34986.9945402402,NY.GDP.PCAP.PP.CD,JPN,Japan,East Asia & Pacific,High income,Not classified
+61,2011,35774.6967129559,NY.GDP.PCAP.PP.CD,JPN,Japan,East Asia & Pacific,High income,Not classified
+62,2012,37191.3859456258,NY.GDP.PCAP.PP.CD,JPN,Japan,East Asia & Pacific,High income,Not classified
+63,2013,38974.0794886127,NY.GDP.PCAP.PP.CD,JPN,Japan,East Asia & Pacific,High income,Not classified
+64,2014,39179.155610609,NY.GDP.PCAP.PP.CD,JPN,Japan,East Asia & Pacific,High income,Not classified
+65,2015,40388.5527720976,NY.GDP.PCAP.PP.CD,JPN,Japan,East Asia & Pacific,High income,Not classified
+66,2005,11822.3469289417,NY.GDP.PCAP.PP.CD,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+67,2006,14912.2339332667,NY.GDP.PCAP.PP.CD,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+68,2007,16648.2416399717,NY.GDP.PCAP.PP.CD,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+69,2008,20163.6094155718,NY.GDP.PCAP.PP.CD,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+70,2009,19389.9411762443,NY.GDP.PCAP.PP.CD,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+71,2010,20490.1267193879,NY.GDP.PCAP.PP.CD,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+72,2011,22798.6744273279,NY.GDP.PCAP.PP.CD,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+73,2012,24303.4734145818,NY.GDP.PCAP.PP.CD,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+74,2013,26073.8745307451,NY.GDP.PCAP.PP.CD,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+75,2014,25761.6480209933,NY.GDP.PCAP.PP.CD,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+76,2015,24085.3241847947,NY.GDP.PCAP.PP.CD,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+77,2005,32592.5145429742,NY.GDP.PCAP.PP.CD,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+78,2006,34657.5149790665,NY.GDP.PCAP.PP.CD,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+79,2007,35505.3881020793,NY.GDP.PCAP.PP.CD,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+80,2008,36644.6977720036,NY.GDP.PCAP.PP.CD,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+81,2009,35043.5945011122,NY.GDP.PCAP.PP.CD,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+82,2010,36464.4825675756,NY.GDP.PCAP.PP.CD,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+83,2011,37169.5471442258,NY.GDP.PCAP.PP.CD,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+84,2012,38299.5689881601,NY.GDP.PCAP.PP.CD,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+85,2013,39931.2293779137,NY.GDP.PCAP.PP.CD,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+86,2014,41289.0758256899,NY.GDP.PCAP.PP.CD,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+87,2015,42567.5917974837,NY.GDP.PCAP.PP.CD,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+88,2005,44114.7477810544,NY.GDP.PCAP.PP.CD,USA,United States,North America,High income,Not classified
+89,2006,46298.7314440927,NY.GDP.PCAP.PP.CD,USA,United States,North America,High income,Not classified
+90,2007,47975.9676958038,NY.GDP.PCAP.PP.CD,USA,United States,North America,High income,Not classified
+91,2008,48382.5584490552,NY.GDP.PCAP.PP.CD,USA,United States,North America,High income,Not classified
+92,2009,47099.9804711343,NY.GDP.PCAP.PP.CD,USA,United States,North America,High income,Not classified
+93,2010,48466.6576026922,NY.GDP.PCAP.PP.CD,USA,United States,North America,High income,Not classified
+94,2011,49882.5581321495,NY.GDP.PCAP.PP.CD,USA,United States,North America,High income,Not classified
+95,2012,51602.9310457907,NY.GDP.PCAP.PP.CD,USA,United States,North America,High income,Not classified
+96,2013,53106.5367672165,NY.GDP.PCAP.PP.CD,USA,United States,North America,High income,Not classified
+97,2014,55049.9883272312,NY.GDP.PCAP.PP.CD,USA,United States,North America,High income,Not classified
+98,2015,56863.3714957652,NY.GDP.PCAP.PP.CD,USA,United States,North America,High income,Not classified
+99,2005,186127108.0,SP.POP.TOTL,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+100,2006,188167353.0,SP.POP.TOTL,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+101,2007,190130445.0,SP.POP.TOTL,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+102,2008,192030362.0,SP.POP.TOTL,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+103,2009,193886505.0,SP.POP.TOTL,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+104,2010,195713637.0,SP.POP.TOTL,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+105,2011,197514541.0,SP.POP.TOTL,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+106,2012,199287292.0,SP.POP.TOTL,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+107,2013,201035904.0,SP.POP.TOTL,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+108,2014,202763744.0,SP.POP.TOTL,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+109,2015,204471759.0,SP.POP.TOTL,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+110,2005,1303720000.0,SP.POP.TOTL,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+111,2006,1311020000.0,SP.POP.TOTL,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+112,2007,1317885000.0,SP.POP.TOTL,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+113,2008,1324655000.0,SP.POP.TOTL,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+114,2009,1331260000.0,SP.POP.TOTL,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+115,2010,1337705000.0,SP.POP.TOTL,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+116,2011,1344130000.0,SP.POP.TOTL,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+117,2012,1350695000.0,SP.POP.TOTL,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+118,2013,1357380000.0,SP.POP.TOTL,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+119,2014,1364270000.0,SP.POP.TOTL,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+120,2015,1371220000.0,SP.POP.TOTL,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+121,2005,82469422.0,SP.POP.TOTL,DEU,Germany,Europe & Central Asia,High income,Not classified
+122,2006,82376451.0,SP.POP.TOTL,DEU,Germany,Europe & Central Asia,High income,Not classified
+123,2007,82266372.0,SP.POP.TOTL,DEU,Germany,Europe & Central Asia,High income,Not classified
+124,2008,82110097.0,SP.POP.TOTL,DEU,Germany,Europe & Central Asia,High income,Not classified
+125,2009,81902307.0,SP.POP.TOTL,DEU,Germany,Europe & Central Asia,High income,Not classified
+126,2010,81776930.0,SP.POP.TOTL,DEU,Germany,Europe & Central Asia,High income,Not classified
+127,2011,80274983.0,SP.POP.TOTL,DEU,Germany,Europe & Central Asia,High income,Not classified
+128,2012,80425823.0,SP.POP.TOTL,DEU,Germany,Europe & Central Asia,High income,Not classified
+129,2013,80645605.0,SP.POP.TOTL,DEU,Germany,Europe & Central Asia,High income,Not classified
+130,2014,80982500.0,SP.POP.TOTL,DEU,Germany,Europe & Central Asia,High income,Not classified
+131,2015,81686611.0,SP.POP.TOTL,DEU,Germany,Europe & Central Asia,High income,Not classified
+132,2005,1147609924.0,SP.POP.TOTL,IND,India,South Asia,Lower middle income,IBRD
+133,2006,1165486291.0,SP.POP.TOTL,IND,India,South Asia,Lower middle income,IBRD
+134,2007,1183209471.0,SP.POP.TOTL,IND,India,South Asia,Lower middle income,IBRD
+135,2008,1200669762.0,SP.POP.TOTL,IND,India,South Asia,Lower middle income,IBRD
+136,2009,1217726217.0,SP.POP.TOTL,IND,India,South Asia,Lower middle income,IBRD
+137,2010,1234281163.0,SP.POP.TOTL,IND,India,South Asia,Lower middle income,IBRD
+138,2011,1250287939.0,SP.POP.TOTL,IND,India,South Asia,Lower middle income,IBRD
+139,2012,1265780243.0,SP.POP.TOTL,IND,India,South Asia,Lower middle income,IBRD
+140,2013,1280842119.0,SP.POP.TOTL,IND,India,South Asia,Lower middle income,IBRD
+141,2014,1295600768.0,SP.POP.TOTL,IND,India,South Asia,Lower middle income,IBRD
+142,2015,1310152392.0,SP.POP.TOTL,IND,India,South Asia,Lower middle income,IBRD
+143,2005,226289468.0,SP.POP.TOTL,IDN,Indonesia,East Asia & Pacific,Lower middle income,IBRD
+144,2006,229318262.0,SP.POP.TOTL,IDN,Indonesia,East Asia & Pacific,Lower middle income,IBRD
+145,2007,232374239.0,SP.POP.TOTL,IDN,Indonesia,East Asia & Pacific,Lower middle income,IBRD
+146,2008,235469755.0,SP.POP.TOTL,IDN,Indonesia,East Asia & Pacific,Lower middle income,IBRD
+147,2009,238620554.0,SP.POP.TOTL,IDN,Indonesia,East Asia & Pacific,Lower middle income,IBRD
+148,2010,241834226.0,SP.POP.TOTL,IDN,Indonesia,East Asia & Pacific,Lower middle income,IBRD
+149,2011,245115988.0,SP.POP.TOTL,IDN,Indonesia,East Asia & Pacific,Lower middle income,IBRD
+150,2012,248451714.0,SP.POP.TOTL,IDN,Indonesia,East Asia & Pacific,Lower middle income,IBRD
+151,2013,251805314.0,SP.POP.TOTL,IDN,Indonesia,East Asia & Pacific,Lower middle income,IBRD
+152,2014,255128076.0,SP.POP.TOTL,IDN,Indonesia,East Asia & Pacific,Lower middle income,IBRD
+153,2015,258383257.0,SP.POP.TOTL,IDN,Indonesia,East Asia & Pacific,Lower middle income,IBRD
+154,2005,127773000.0,SP.POP.TOTL,JPN,Japan,East Asia & Pacific,High income,Not classified
+155,2006,127854000.0,SP.POP.TOTL,JPN,Japan,East Asia & Pacific,High income,Not classified
+156,2007,128001000.0,SP.POP.TOTL,JPN,Japan,East Asia & Pacific,High income,Not classified
+157,2008,128063000.0,SP.POP.TOTL,JPN,Japan,East Asia & Pacific,High income,Not classified
+158,2009,128047000.0,SP.POP.TOTL,JPN,Japan,East Asia & Pacific,High income,Not classified
+159,2010,128070000.0,SP.POP.TOTL,JPN,Japan,East Asia & Pacific,High income,Not classified
+160,2011,127833000.0,SP.POP.TOTL,JPN,Japan,East Asia & Pacific,High income,Not classified
+161,2012,127629000.0,SP.POP.TOTL,JPN,Japan,East Asia & Pacific,High income,Not classified
+162,2013,127445000.0,SP.POP.TOTL,JPN,Japan,East Asia & Pacific,High income,Not classified
+163,2014,127276000.0,SP.POP.TOTL,JPN,Japan,East Asia & Pacific,High income,Not classified
+164,2015,127141000.0,SP.POP.TOTL,JPN,Japan,East Asia & Pacific,High income,Not classified
+165,2005,143518814.0,SP.POP.TOTL,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+166,2006,143049637.0,SP.POP.TOTL,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+167,2007,142805114.0,SP.POP.TOTL,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+168,2008,142742366.0,SP.POP.TOTL,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+169,2009,142785349.0,SP.POP.TOTL,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+170,2010,142849468.0,SP.POP.TOTL,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+171,2011,142960908.0,SP.POP.TOTL,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+172,2012,143201721.0,SP.POP.TOTL,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+173,2013,143506995.0,SP.POP.TOTL,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+174,2014,143819667.0,SP.POP.TOTL,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+175,2015,144096870.0,SP.POP.TOTL,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+176,2005,60401206.0,SP.POP.TOTL,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+177,2006,60846820.0,SP.POP.TOTL,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+178,2007,61322463.0,SP.POP.TOTL,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+179,2008,61806995.0,SP.POP.TOTL,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+180,2009,62276270.0,SP.POP.TOTL,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+181,2010,62766365.0,SP.POP.TOTL,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+182,2011,63258810.0,SP.POP.TOTL,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+183,2012,63700215.0,SP.POP.TOTL,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+184,2013,64128273.0,SP.POP.TOTL,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+185,2014,64602298.0,SP.POP.TOTL,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+186,2015,65116219.0,SP.POP.TOTL,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+187,2005,295516599.0,SP.POP.TOTL,USA,United States,North America,High income,Not classified
+188,2006,298379912.0,SP.POP.TOTL,USA,United States,North America,High income,Not classified
+189,2007,301231207.0,SP.POP.TOTL,USA,United States,North America,High income,Not classified
+190,2008,304093966.0,SP.POP.TOTL,USA,United States,North America,High income,Not classified
+191,2009,306771529.0,SP.POP.TOTL,USA,United States,North America,High income,Not classified
+192,2010,309327143.0,SP.POP.TOTL,USA,United States,North America,High income,Not classified
+193,2011,311583481.0,SP.POP.TOTL,USA,United States,North America,High income,Not classified
+194,2012,313877662.0,SP.POP.TOTL,USA,United States,North America,High income,Not classified
+195,2013,316059947.0,SP.POP.TOTL,USA,United States,North America,High income,Not classified
+196,2014,318386329.0,SP.POP.TOTL,USA,United States,North America,High income,Not classified
+197,2015,320738994.0,SP.POP.TOTL,USA,United States,North America,High income,Not classified
+198,2005,4.7,SH.STA.SUIC.P5,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+199,2006,4.7,SH.STA.SUIC.P5,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+200,2007,4.9,SH.STA.SUIC.P5,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+201,2008,5.1,SH.STA.SUIC.P5,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+202,2009,5.1,SH.STA.SUIC.P5,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+203,2010,5.0,SH.STA.SUIC.P5,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+204,2011,5.2,SH.STA.SUIC.P5,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+205,2012,5.4,SH.STA.SUIC.P5,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+206,2013,5.6,SH.STA.SUIC.P5,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+207,2014,5.6,SH.STA.SUIC.P5,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+208,2015,5.9,SH.STA.SUIC.P5,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+209,2005,12.9,SH.STA.SUIC.P5,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+210,2006,12.1,SH.STA.SUIC.P5,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+211,2007,11.5,SH.STA.SUIC.P5,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+212,2008,11.1,SH.STA.SUIC.P5,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+213,2009,10.7,SH.STA.SUIC.P5,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+214,2010,10.2,SH.STA.SUIC.P5,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+215,2011,9.6,SH.STA.SUIC.P5,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+216,2012,9.0,SH.STA.SUIC.P5,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+217,2013,8.6,SH.STA.SUIC.P5,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+218,2014,8.4,SH.STA.SUIC.P5,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+219,2015,8.1,SH.STA.SUIC.P5,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+220,2005,13.3,SH.STA.SUIC.P5,DEU,Germany,Europe & Central Asia,High income,Not classified
+221,2006,12.8,SH.STA.SUIC.P5,DEU,Germany,Europe & Central Asia,High income,Not classified
+222,2007,12.4,SH.STA.SUIC.P5,DEU,Germany,Europe & Central Asia,High income,Not classified
+223,2008,12.5,SH.STA.SUIC.P5,DEU,Germany,Europe & Central Asia,High income,Not classified
+224,2009,12.8,SH.STA.SUIC.P5,DEU,Germany,Europe & Central Asia,High income,Not classified
+225,2010,13.2,SH.STA.SUIC.P5,DEU,Germany,Europe & Central Asia,High income,Not classified
+226,2011,13.2,SH.STA.SUIC.P5,DEU,Germany,Europe & Central Asia,High income,Not classified
+227,2012,12.9,SH.STA.SUIC.P5,DEU,Germany,Europe & Central Asia,High income,Not classified
+228,2013,13.4,SH.STA.SUIC.P5,DEU,Germany,Europe & Central Asia,High income,Not classified
+229,2014,13.4,SH.STA.SUIC.P5,DEU,Germany,Europe & Central Asia,High income,Not classified
+230,2015,13.3,SH.STA.SUIC.P5,DEU,Germany,Europe & Central Asia,High income,Not classified
+231,2005,15.5,SH.STA.SUIC.P5,IND,India,South Asia,Lower middle income,IBRD
+232,2006,15.6,SH.STA.SUIC.P5,IND,India,South Asia,Lower middle income,IBRD
+233,2007,15.3,SH.STA.SUIC.P5,IND,India,South Asia,Lower middle income,IBRD
+234,2008,15.1,SH.STA.SUIC.P5,IND,India,South Asia,Lower middle income,IBRD
+235,2009,14.5,SH.STA.SUIC.P5,IND,India,South Asia,Lower middle income,IBRD
+236,2010,14.6,SH.STA.SUIC.P5,IND,India,South Asia,Lower middle income,IBRD
+237,2011,14.7,SH.STA.SUIC.P5,IND,India,South Asia,Lower middle income,IBRD
+238,2012,14.3,SH.STA.SUIC.P5,IND,India,South Asia,Lower middle income,IBRD
+239,2013,13.7,SH.STA.SUIC.P5,IND,India,South Asia,Lower middle income,IBRD
+240,2014,12.8,SH.STA.SUIC.P5,IND,India,South Asia,Lower middle income,IBRD
+241,2015,12.3,SH.STA.SUIC.P5,IND,India,South Asia,Lower middle income,IBRD
+242,2005,3.0,SH.STA.SUIC.P5,IDN,Indonesia,East Asia & Pacific,Lower middle income,IBRD
+243,2006,2.9,SH.STA.SUIC.P5,IDN,Indonesia,East Asia & Pacific,Lower middle income,IBRD
+244,2007,2.9,SH.STA.SUIC.P5,IDN,Indonesia,East Asia & Pacific,Lower middle income,IBRD
+245,2008,2.8,SH.STA.SUIC.P5,IDN,Indonesia,East Asia & Pacific,Lower middle income,IBRD
+246,2009,2.7,SH.STA.SUIC.P5,IDN,Indonesia,East Asia & Pacific,Lower middle income,IBRD
+247,2010,2.6,SH.STA.SUIC.P5,IDN,Indonesia,East Asia & Pacific,Lower middle income,IBRD
+248,2011,2.6,SH.STA.SUIC.P5,IDN,Indonesia,East Asia & Pacific,Lower middle income,IBRD
+249,2012,2.5,SH.STA.SUIC.P5,IDN,Indonesia,East Asia & Pacific,Lower middle income,IBRD
+250,2013,2.5,SH.STA.SUIC.P5,IDN,Indonesia,East Asia & Pacific,Lower middle income,IBRD
+251,2014,2.4,SH.STA.SUIC.P5,IDN,Indonesia,East Asia & Pacific,Lower middle income,IBRD
+252,2015,2.4,SH.STA.SUIC.P5,IDN,Indonesia,East Asia & Pacific,Lower middle income,IBRD
+253,2005,24.3,SH.STA.SUIC.P5,JPN,Japan,East Asia & Pacific,High income,Not classified
+254,2006,23.9,SH.STA.SUIC.P5,JPN,Japan,East Asia & Pacific,High income,Not classified
+255,2007,25.0,SH.STA.SUIC.P5,JPN,Japan,East Asia & Pacific,High income,Not classified
+256,2008,24.4,SH.STA.SUIC.P5,JPN,Japan,East Asia & Pacific,High income,Not classified
+257,2009,24.9,SH.STA.SUIC.P5,JPN,Japan,East Asia & Pacific,High income,Not classified
+258,2010,24.1,SH.STA.SUIC.P5,JPN,Japan,East Asia & Pacific,High income,Not classified
+259,2011,23.4,SH.STA.SUIC.P5,JPN,Japan,East Asia & Pacific,High income,Not classified
+260,2012,21.6,SH.STA.SUIC.P5,JPN,Japan,East Asia & Pacific,High income,Not classified
+261,2013,21.4,SH.STA.SUIC.P5,JPN,Japan,East Asia & Pacific,High income,Not classified
+262,2014,20.1,SH.STA.SUIC.P5,JPN,Japan,East Asia & Pacific,High income,Not classified
+263,2015,19.1,SH.STA.SUIC.P5,JPN,Japan,East Asia & Pacific,High income,Not classified
+264,2005,49.8,SH.STA.SUIC.P5,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+265,2006,44.8,SH.STA.SUIC.P5,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+266,2007,41.7,SH.STA.SUIC.P5,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+267,2008,40.7,SH.STA.SUIC.P5,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+268,2009,38.4,SH.STA.SUIC.P5,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+269,2010,38.1,SH.STA.SUIC.P5,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+270,2011,35.9,SH.STA.SUIC.P5,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+271,2012,34.4,SH.STA.SUIC.P5,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+272,2013,33.5,SH.STA.SUIC.P5,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+273,2014,33.8,SH.STA.SUIC.P5,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+274,2015,32.0,SH.STA.SUIC.P5,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+275,2005,7.9,SH.STA.SUIC.P5,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+276,2006,7.8,SH.STA.SUIC.P5,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+277,2007,7.6,SH.STA.SUIC.P5,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+278,2008,8.1,SH.STA.SUIC.P5,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+279,2009,8.0,SH.STA.SUIC.P5,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+280,2010,7.8,SH.STA.SUIC.P5,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+281,2011,8.3,SH.STA.SUIC.P5,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+282,2012,8.2,SH.STA.SUIC.P5,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+283,2013,8.8,SH.STA.SUIC.P5,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+284,2014,8.6,SH.STA.SUIC.P5,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+285,2015,8.8,SH.STA.SUIC.P5,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+286,2005,11.9,SH.STA.SUIC.P5,USA,United States,North America,High income,Not classified
+287,2006,12.1,SH.STA.SUIC.P5,USA,United States,North America,High income,Not classified
+288,2007,12.4,SH.STA.SUIC.P5,USA,United States,North America,High income,Not classified
+289,2008,12.7,SH.STA.SUIC.P5,USA,United States,North America,High income,Not classified
+290,2009,12.8,SH.STA.SUIC.P5,USA,United States,North America,High income,Not classified
+291,2010,13.1,SH.STA.SUIC.P5,USA,United States,North America,High income,Not classified
+292,2011,13.4,SH.STA.SUIC.P5,USA,United States,North America,High income,Not classified
+293,2012,13.5,SH.STA.SUIC.P5,USA,United States,North America,High income,Not classified
+294,2013,13.5,SH.STA.SUIC.P5,USA,United States,North America,High income,Not classified
+295,2014,14.0,SH.STA.SUIC.P5,USA,United States,North America,High income,Not classified
+296,2015,14.4,SH.STA.SUIC.P5,USA,United States,North America,High income,Not classified
+297,2005,2338862330896.02,NY.GDP.MKTP.PP.KD,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+298,2006,2431527792665.72,NY.GDP.MKTP.PP.KD,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+299,2007,2579118383471.24,NY.GDP.MKTP.PP.KD,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+300,2008,2710503714743.21,NY.GDP.MKTP.PP.KD,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+301,2009,2707093575825.47,NY.GDP.MKTP.PP.KD,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+302,2010,2910889693644.54,NY.GDP.MKTP.PP.KD,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+303,2011,3026580833164.68,NY.GDP.MKTP.PP.KD,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+304,2012,3084726000476.53,NY.GDP.MKTP.PP.KD,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+305,2013,3177417275722.99,NY.GDP.MKTP.PP.KD,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+306,2014,3193430052475.44,NY.GDP.MKTP.PP.KD,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+307,2015,3080198578703.47,NY.GDP.MKTP.PP.KD,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+308,2005,6954885516694.85,NY.GDP.MKTP.PP.KD,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+309,2006,7839613419837.17,NY.GDP.MKTP.PP.KD,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+310,2007,8955257903305.3,NY.GDP.MKTP.PP.KD,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+311,2008,9819501089971.55,NY.GDP.MKTP.PP.KD,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+312,2009,10742409055886.5,NY.GDP.MKTP.PP.KD,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+313,2010,11884957832311.2,NY.GDP.MKTP.PP.KD,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+314,2011,13020070209403.8,NY.GDP.MKTP.PP.KD,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+315,2012,14043934216102.1,NY.GDP.MKTP.PP.KD,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+316,2013,15134607226924.2,NY.GDP.MKTP.PP.KD,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+317,2014,16258467389928.8,NY.GDP.MKTP.PP.KD,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+318,2015,17403279549482.5,NY.GDP.MKTP.PP.KD,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+319,2005,3619132259197.63,NY.GDP.MKTP.PP.KD,DEU,Germany,Europe & Central Asia,High income,Not classified
+320,2006,3757254339624.12,NY.GDP.MKTP.PP.KD,DEU,Germany,Europe & Central Asia,High income,Not classified
+321,2007,3869087329212.45,NY.GDP.MKTP.PP.KD,DEU,Germany,Europe & Central Asia,High income,Not classified
+322,2008,3906225891144.96,NY.GDP.MKTP.PP.KD,DEU,Germany,Europe & Central Asia,High income,Not classified
+323,2009,3683811781972.98,NY.GDP.MKTP.PP.KD,DEU,Germany,Europe & Central Asia,High income,Not classified
+324,2010,3837790785934.06,NY.GDP.MKTP.PP.KD,DEU,Germany,Europe & Central Asia,High income,Not classified
+325,2011,3988431469882.66,NY.GDP.MKTP.PP.KD,DEU,Germany,Europe & Central Asia,High income,Not classified
+326,2012,4005122959631.14,NY.GDP.MKTP.PP.KD,DEU,Germany,Europe & Central Asia,High income,Not classified
+327,2013,4022649029382.74,NY.GDP.MKTP.PP.KD,DEU,Germany,Europe & Central Asia,High income,Not classified
+328,2014,4111531206777.68,NY.GDP.MKTP.PP.KD,DEU,Germany,Europe & Central Asia,High income,Not classified
+329,2015,4172872437119.02,NY.GDP.MKTP.PP.KD,DEU,Germany,Europe & Central Asia,High income,Not classified
+330,2005,3724338354436.36,NY.GDP.MKTP.PP.KD,IND,India,South Asia,Lower middle income,IBRD
+331,2006,4024547309302.36,NY.GDP.MKTP.PP.KD,IND,India,South Asia,Lower middle income,IBRD
+332,2007,4332860435873.44,NY.GDP.MKTP.PP.KD,IND,India,South Asia,Lower middle income,IBRD
+333,2008,4466602754869.81,NY.GDP.MKTP.PP.KD,IND,India,South Asia,Lower middle income,IBRD
+334,2009,4817762098070.95,NY.GDP.MKTP.PP.KD,IND,India,South Asia,Lower middle income,IBRD
+335,2010,5227155513075.2,NY.GDP.MKTP.PP.KD,IND,India,South Asia,Lower middle income,IBRD
+336,2011,5501127199130.63,NY.GDP.MKTP.PP.KD,IND,India,South Asia,Lower middle income,IBRD
+337,2012,5801290084908.55,NY.GDP.MKTP.PP.KD,IND,India,South Asia,Lower middle income,IBRD
+338,2013,6171766642357.03,NY.GDP.MKTP.PP.KD,IND,India,South Asia,Lower middle income,IBRD
+339,2014,6629108597815.28,NY.GDP.MKTP.PP.KD,IND,India,South Asia,Lower middle income,IBRD
+340,2015,7159188945023.98,NY.GDP.MKTP.PP.KD,IND,India,South Asia,Lower middle income,IBRD
+341,2005,1515974717436.42,NY.GDP.MKTP.PP.KD,IDN,Indonesia,East Asia & Pacific,Lower middle income,IBRD
+342,2006,1599367755718.47,NY.GDP.MKTP.PP.KD,IDN,Indonesia,East Asia & Pacific,Lower middle income,IBRD
+343,2007,1700847995305.04,NY.GDP.MKTP.PP.KD,IDN,Indonesia,East Asia & Pacific,Lower middle income,IBRD
+344,2008,1803131952430.77,NY.GDP.MKTP.PP.KD,IDN,Indonesia,East Asia & Pacific,Lower middle income,IBRD
+345,2009,1886596607760.4,NY.GDP.MKTP.PP.KD,IDN,Indonesia,East Asia & Pacific,Lower middle income,IBRD
+346,2010,2004015629604.0,NY.GDP.MKTP.PP.KD,IDN,Indonesia,East Asia & Pacific,Lower middle income,IBRD
+347,2011,2127659069439.35,NY.GDP.MKTP.PP.KD,IDN,Indonesia,East Asia & Pacific,Lower middle income,IBRD
+348,2012,2255957989050.89,NY.GDP.MKTP.PP.KD,IDN,Indonesia,East Asia & Pacific,Lower middle income,IBRD
+349,2013,2381327523213.48,NY.GDP.MKTP.PP.KD,IDN,Indonesia,East Asia & Pacific,Lower middle income,IBRD
+350,2014,2500552696432.02,NY.GDP.MKTP.PP.KD,IDN,Indonesia,East Asia & Pacific,Lower middle income,IBRD
+351,2015,2622487705196.92,NY.GDP.MKTP.PP.KD,IDN,Indonesia,East Asia & Pacific,Lower middle income,IBRD
+352,2005,4790191034581.33,NY.GDP.MKTP.PP.KD,JPN,Japan,East Asia & Pacific,High income,Not classified
+353,2006,4858212061319.38,NY.GDP.MKTP.PP.KD,JPN,Japan,East Asia & Pacific,High income,Not classified
+354,2007,4938575822144.97,NY.GDP.MKTP.PP.KD,JPN,Japan,East Asia & Pacific,High income,Not classified
+355,2008,4884570490446.0,NY.GDP.MKTP.PP.KD,JPN,Japan,East Asia & Pacific,High income,Not classified
+356,2009,4620001989339.51,NY.GDP.MKTP.PP.KD,JPN,Japan,East Asia & Pacific,High income,Not classified
+357,2010,4813660426472.33,NY.GDP.MKTP.PP.KD,JPN,Japan,East Asia & Pacific,High income,Not classified
+358,2011,4808104435116.72,NY.GDP.MKTP.PP.KD,JPN,Japan,East Asia & Pacific,High income,Not classified
+359,2012,4879989903806.81,NY.GDP.MKTP.PP.KD,JPN,Japan,East Asia & Pacific,High income,Not classified
+360,2013,4977602772505.54,NY.GDP.MKTP.PP.KD,JPN,Japan,East Asia & Pacific,High income,Not classified
+361,2014,4996254819549.48,NY.GDP.MKTP.PP.KD,JPN,Japan,East Asia & Pacific,High income,Not classified
+362,2015,5057355071002.79,NY.GDP.MKTP.PP.KD,JPN,Japan,East Asia & Pacific,High income,Not classified
+363,2005,2876520823211.47,NY.GDP.MKTP.PP.KD,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+364,2006,3112397494085.71,NY.GDP.MKTP.PP.KD,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+365,2007,3376950589149.21,NY.GDP.MKTP.PP.KD,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+366,2008,3552550981878.81,NY.GDP.MKTP.PP.KD,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+367,2009,3275452221520.73,NY.GDP.MKTP.PP.KD,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+368,2010,3422847571490.17,NY.GDP.MKTP.PP.KD,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+369,2011,3570031016049.49,NY.GDP.MKTP.PP.KD,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+370,2012,3713692139974.43,NY.GDP.MKTP.PP.KD,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+371,2013,3778883114348.69,NY.GDP.MKTP.PP.KD,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+372,2014,3806705792055.25,NY.GDP.MKTP.PP.KD,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+373,2015,3731610175003.83,NY.GDP.MKTP.PP.KD,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+374,2005,2574900284130.18,NY.GDP.MKTP.PP.KD,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+375,2006,2644262957426.98,NY.GDP.MKTP.PP.KD,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+376,2007,2706682790498.11,NY.GDP.MKTP.PP.KD,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+377,2008,2699137095867.32,NY.GDP.MKTP.PP.KD,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+378,2009,2588095963368.1,NY.GDP.MKTP.PP.KD,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+379,2010,2641774392354.46,NY.GDP.MKTP.PP.KD,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+380,2011,2675475730486.89,NY.GDP.MKTP.PP.KD,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+381,2012,2713745629083.1,NY.GDP.MKTP.PP.KD,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+382,2013,2773071184631.19,NY.GDP.MKTP.PP.KD,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+383,2014,2852456688491.83,NY.GDP.MKTP.PP.KD,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+384,2015,2919862222802.09,NY.GDP.MKTP.PP.KD,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+385,2005,16062233970920.8,NY.GDP.MKTP.PP.KD,USA,United States,North America,High income,Not classified
+386,2006,16520806300529.3,NY.GDP.MKTP.PP.KD,USA,United States,North America,High income,Not classified
+387,2007,16830764952336.3,NY.GDP.MKTP.PP.KD,USA,United States,North America,High income,Not classified
+388,2008,16807777526679.0,NY.GDP.MKTP.PP.KD,USA,United States,North America,High income,Not classified
+389,2009,16381405042441.5,NY.GDP.MKTP.PP.KD,USA,United States,North America,High income,Not classified
+390,2010,16801386027043.2,NY.GDP.MKTP.PP.KD,USA,United States,North America,High income,Not classified
+391,2011,17061947886833.7,NY.GDP.MKTP.PP.KD,USA,United States,North America,High income,Not classified
+392,2012,17445764227858.7,NY.GDP.MKTP.PP.KD,USA,United States,North America,High income,Not classified
+393,2013,17767129348328.8,NY.GDP.MKTP.PP.KD,USA,United States,North America,High income,Not classified
+394,2014,18215922317850.4,NY.GDP.MKTP.PP.KD,USA,United States,North America,High income,Not classified
+395,2015,18776155677330.2,NY.GDP.MKTP.PP.KD,USA,United States,North America,High income,Not classified
+396,2005,71.896,SP.DYN.LE00.IN,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+397,2006,72.26,SP.DYN.LE00.IN,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+398,2007,72.618,SP.DYN.LE00.IN,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+399,2008,72.966,SP.DYN.LE00.IN,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+400,2009,73.3,SP.DYN.LE00.IN,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+401,2010,73.619,SP.DYN.LE00.IN,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+402,2011,73.921,SP.DYN.LE00.IN,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+403,2012,74.209,SP.DYN.LE00.IN,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+404,2013,74.483,SP.DYN.LE00.IN,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+405,2014,74.745,SP.DYN.LE00.IN,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+406,2015,74.994,SP.DYN.LE00.IN,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+407,2005,72.985,SP.DYN.LE00.IN,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+408,2006,73.271,SP.DYN.LE00.IN,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+409,2007,73.553,SP.DYN.LE00.IN,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+410,2008,73.835,SP.DYN.LE00.IN,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+411,2009,74.119,SP.DYN.LE00.IN,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+412,2010,74.409,SP.DYN.LE00.IN,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+413,2011,74.708,SP.DYN.LE00.IN,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+414,2012,75.013,SP.DYN.LE00.IN,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+415,2013,75.321,SP.DYN.LE00.IN,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+416,2014,75.629,SP.DYN.LE00.IN,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+417,2015,75.928,SP.DYN.LE00.IN,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+418,2005,78.9317073171,SP.DYN.LE00.IN,DEU,Germany,Europe & Central Asia,High income,Not classified
+419,2006,79.1317073171,SP.DYN.LE00.IN,DEU,Germany,Europe & Central Asia,High income,Not classified
+420,2007,79.5341463415,SP.DYN.LE00.IN,DEU,Germany,Europe & Central Asia,High income,Not classified
+421,2008,79.7365853659,SP.DYN.LE00.IN,DEU,Germany,Europe & Central Asia,High income,Not classified
+422,2009,79.8365853659,SP.DYN.LE00.IN,DEU,Germany,Europe & Central Asia,High income,Not classified
+423,2010,79.987804878,SP.DYN.LE00.IN,DEU,Germany,Europe & Central Asia,High income,Not classified
+424,2011,80.4365853659,SP.DYN.LE00.IN,DEU,Germany,Europe & Central Asia,High income,Not classified
+425,2012,80.5390243902,SP.DYN.LE00.IN,DEU,Germany,Europe & Central Asia,High income,Not classified
+426,2013,80.4902439024,SP.DYN.LE00.IN,DEU,Germany,Europe & Central Asia,High income,Not classified
+427,2014,81.0902439024,SP.DYN.LE00.IN,DEU,Germany,Europe & Central Asia,High income,Not classified
+428,2015,80.6414634146,SP.DYN.LE00.IN,DEU,Germany,Europe & Central Asia,High income,Not classified
+429,2005,64.5,SP.DYN.LE00.IN,IND,India,South Asia,Lower middle income,IBRD
+430,2006,64.918,SP.DYN.LE00.IN,IND,India,South Asia,Lower middle income,IBRD
+431,2007,65.35,SP.DYN.LE00.IN,IND,India,South Asia,Lower middle income,IBRD
+432,2008,65.794,SP.DYN.LE00.IN,IND,India,South Asia,Lower middle income,IBRD
+433,2009,66.244,SP.DYN.LE00.IN,IND,India,South Asia,Lower middle income,IBRD
+434,2010,66.693,SP.DYN.LE00.IN,IND,India,South Asia,Lower middle income,IBRD
+435,2011,67.13,SP.DYN.LE00.IN,IND,India,South Asia,Lower middle income,IBRD
+436,2012,67.545,SP.DYN.LE00.IN,IND,India,South Asia,Lower middle income,IBRD
+437,2013,67.931,SP.DYN.LE00.IN,IND,India,South Asia,Lower middle income,IBRD
+438,2014,68.286,SP.DYN.LE00.IN,IND,India,South Asia,Lower middle income,IBRD
+439,2015,68.607,SP.DYN.LE00.IN,IND,India,South Asia,Lower middle income,IBRD
+440,2005,67.334,SP.DYN.LE00.IN,IDN,Indonesia,East Asia & Pacific,Lower middle income,IBRD
+441,2006,67.717,SP.DYN.LE00.IN,IDN,Indonesia,East Asia & Pacific,Lower middle income,IBRD
+442,2007,68.105,SP.DYN.LE00.IN,IDN,Indonesia,East Asia & Pacific,Lower middle income,IBRD
+443,2008,68.485,SP.DYN.LE00.IN,IDN,Indonesia,East Asia & Pacific,Lower middle income,IBRD
+444,2009,68.853,SP.DYN.LE00.IN,IDN,Indonesia,East Asia & Pacific,Lower middle income,IBRD
+445,2010,69.205,SP.DYN.LE00.IN,IDN,Indonesia,East Asia & Pacific,Lower middle income,IBRD
+446,2011,69.542,SP.DYN.LE00.IN,IDN,Indonesia,East Asia & Pacific,Lower middle income,IBRD
+447,2012,69.866,SP.DYN.LE00.IN,IDN,Indonesia,East Asia & Pacific,Lower middle income,IBRD
+448,2013,70.179,SP.DYN.LE00.IN,IDN,Indonesia,East Asia & Pacific,Lower middle income,IBRD
+449,2014,70.481,SP.DYN.LE00.IN,IDN,Indonesia,East Asia & Pacific,Lower middle income,IBRD
+450,2015,70.768,SP.DYN.LE00.IN,IDN,Indonesia,East Asia & Pacific,Lower middle income,IBRD
+451,2005,81.9251219512,SP.DYN.LE00.IN,JPN,Japan,East Asia & Pacific,High income,Not classified
+452,2006,82.3219512195,SP.DYN.LE00.IN,JPN,Japan,East Asia & Pacific,High income,Not classified
+453,2007,82.5070731707,SP.DYN.LE00.IN,JPN,Japan,East Asia & Pacific,High income,Not classified
+454,2008,82.5875609756,SP.DYN.LE00.IN,JPN,Japan,East Asia & Pacific,High income,Not classified
+455,2009,82.9314634146,SP.DYN.LE00.IN,JPN,Japan,East Asia & Pacific,High income,Not classified
+456,2010,82.8426829268,SP.DYN.LE00.IN,JPN,Japan,East Asia & Pacific,High income,Not classified
+457,2011,82.5912195122,SP.DYN.LE00.IN,JPN,Japan,East Asia & Pacific,High income,Not classified
+458,2012,83.096097561,SP.DYN.LE00.IN,JPN,Japan,East Asia & Pacific,High income,Not classified
+459,2013,83.3319512195,SP.DYN.LE00.IN,JPN,Japan,East Asia & Pacific,High income,Not classified
+460,2014,83.587804878,SP.DYN.LE00.IN,JPN,Japan,East Asia & Pacific,High income,Not classified
+461,2015,83.793902439,SP.DYN.LE00.IN,JPN,Japan,East Asia & Pacific,High income,Not classified
+462,2005,65.5297560976,SP.DYN.LE00.IN,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+463,2006,66.7275609756,SP.DYN.LE00.IN,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+464,2007,67.5868292683,SP.DYN.LE00.IN,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+465,2008,67.9492682927,SP.DYN.LE00.IN,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+466,2009,68.6846341463,SP.DYN.LE00.IN,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+467,2010,68.8412195122,SP.DYN.LE00.IN,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+468,2011,69.683902439,SP.DYN.LE00.IN,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+469,2012,70.072195122,SP.DYN.LE00.IN,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+470,2013,70.5787804878,SP.DYN.LE00.IN,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+471,2014,70.7436585366,SP.DYN.LE00.IN,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+472,2015,71.1834146341,SP.DYN.LE00.IN,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+473,2005,79.0487804878,SP.DYN.LE00.IN,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+474,2006,79.2487804878,SP.DYN.LE00.IN,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+475,2007,79.4487804878,SP.DYN.LE00.IN,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+476,2008,79.6,SP.DYN.LE00.IN,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+477,2009,80.0512195122,SP.DYN.LE00.IN,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+478,2010,80.4024390244,SP.DYN.LE00.IN,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+479,2011,80.9512195122,SP.DYN.LE00.IN,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+480,2012,80.9048780488,SP.DYN.LE00.IN,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+481,2013,81.0048780488,SP.DYN.LE00.IN,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+482,2014,81.3048780488,SP.DYN.LE00.IN,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+483,2015,80.956097561,SP.DYN.LE00.IN,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+484,2005,77.487804878,SP.DYN.LE00.IN,USA,United States,North America,High income,Not classified
+485,2006,77.687804878,SP.DYN.LE00.IN,USA,United States,North America,High income,Not classified
+486,2007,77.987804878,SP.DYN.LE00.IN,USA,United States,North America,High income,Not classified
+487,2008,78.0390243902,SP.DYN.LE00.IN,USA,United States,North America,High income,Not classified
+488,2009,78.3902439024,SP.DYN.LE00.IN,USA,United States,North America,High income,Not classified
+489,2010,78.5414634146,SP.DYN.LE00.IN,USA,United States,North America,High income,Not classified
+490,2011,78.6414634146,SP.DYN.LE00.IN,USA,United States,North America,High income,Not classified
+491,2012,78.7414634146,SP.DYN.LE00.IN,USA,United States,North America,High income,Not classified
+492,2013,78.7414634146,SP.DYN.LE00.IN,USA,United States,North America,High income,Not classified
+493,2014,78.8414634146,SP.DYN.LE00.IN,USA,United States,North America,High income,Not classified
+494,2015,78.6902439024,SP.DYN.LE00.IN,USA,United States,North America,High income,Not classified
