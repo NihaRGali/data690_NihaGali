@@ -1,0 +1,185 @@
+,Year,value,indicator,Country Code,Country Name,Region,Income Group,Lending Type
+0,2015,34413603.0,SP.POP.TOTL,AFG,Afghanistan,South Asia,Low income,IDA
+1,2016,35383028.0,SP.POP.TOTL,AFG,Afghanistan,South Asia,Low income,IDA
+2,2017,36296111.0,SP.POP.TOTL,AFG,Afghanistan,South Asia,Low income,IDA
+3,2018,37171922.0,SP.POP.TOTL,AFG,Afghanistan,South Asia,Low income,IDA
+4,2019,38041757.0,SP.POP.TOTL,AFG,Afghanistan,South Asia,Low income,IDA
+5,2020,38928341.0,SP.POP.TOTL,AFG,Afghanistan,South Asia,Low income,IDA
+6,2015,14110971.0,SP.POP.TOTL,TCD,Chad,Sub-Saharan Africa ,Low income,IDA
+7,2016,14561658.0,SP.POP.TOTL,TCD,Chad,Sub-Saharan Africa ,Low income,IDA
+8,2017,15016761.0,SP.POP.TOTL,TCD,Chad,Sub-Saharan Africa ,Low income,IDA
+9,2018,15477727.0,SP.POP.TOTL,TCD,Chad,Sub-Saharan Africa ,Low income,IDA
+10,2019,15946882.0,SP.POP.TOTL,TCD,Chad,Sub-Saharan Africa ,Low income,IDA
+11,2020,16425859.0,SP.POP.TOTL,TCD,Chad,Sub-Saharan Africa ,Low income,IDA
+12,2015,15567419.0,SP.POP.TOTL,GTM,Guatemala,Latin America & Caribbean ,Upper middle income,IBRD
+13,2016,15827690.0,SP.POP.TOTL,GTM,Guatemala,Latin America & Caribbean ,Upper middle income,IBRD
+14,2017,16087418.0,SP.POP.TOTL,GTM,Guatemala,Latin America & Caribbean ,Upper middle income,IBRD
+15,2018,16346950.0,SP.POP.TOTL,GTM,Guatemala,Latin America & Caribbean ,Upper middle income,IBRD
+16,2019,16604026.0,SP.POP.TOTL,GTM,Guatemala,Latin America & Caribbean ,Upper middle income,IBRD
+17,2020,16858333.0,SP.POP.TOTL,GTM,Guatemala,Latin America & Caribbean ,Upper middle income,IBRD
+18,2015,11369066.0,SP.POP.TOTL,RWA,Rwanda,Sub-Saharan Africa ,Low income,IDA
+19,2016,11668829.0,SP.POP.TOTL,RWA,Rwanda,Sub-Saharan Africa ,Low income,IDA
+20,2017,11980960.0,SP.POP.TOTL,RWA,Rwanda,Sub-Saharan Africa ,Low income,IDA
+21,2018,12301969.0,SP.POP.TOTL,RWA,Rwanda,Sub-Saharan Africa ,Low income,IDA
+22,2019,12626938.0,SP.POP.TOTL,RWA,Rwanda,Sub-Saharan Africa ,Low income,IDA
+23,2020,12952209.0,SP.POP.TOTL,RWA,Rwanda,Sub-Saharan Africa ,Low income,IDA
+24,2015,13814642.0,SP.POP.TOTL,ZWE,Zimbabwe,Sub-Saharan Africa ,Lower middle income,Blend
+25,2016,14030338.0,SP.POP.TOTL,ZWE,Zimbabwe,Sub-Saharan Africa ,Lower middle income,Blend
+26,2017,14236599.0,SP.POP.TOTL,ZWE,Zimbabwe,Sub-Saharan Africa ,Lower middle income,Blend
+27,2018,14438812.0,SP.POP.TOTL,ZWE,Zimbabwe,Sub-Saharan Africa ,Lower middle income,Blend
+28,2019,14645473.0,SP.POP.TOTL,ZWE,Zimbabwe,Sub-Saharan Africa ,Lower middle income,Blend
+29,2020,14862927.0,SP.POP.TOTL,ZWE,Zimbabwe,Sub-Saharan Africa ,Lower middle income,Blend
+30,2015,4.976,SP.DYN.TFRT.IN,AFG,Afghanistan,South Asia,Low income,IDA
+31,2016,4.8,SP.DYN.TFRT.IN,AFG,Afghanistan,South Asia,Low income,IDA
+32,2017,4.633,SP.DYN.TFRT.IN,AFG,Afghanistan,South Asia,Low income,IDA
+33,2018,4.473,SP.DYN.TFRT.IN,AFG,Afghanistan,South Asia,Low income,IDA
+34,2019,4.321,SP.DYN.TFRT.IN,AFG,Afghanistan,South Asia,Low income,IDA
+35,2015,6.049,SP.DYN.TFRT.IN,TCD,Chad,Sub-Saharan Africa ,Low income,IDA
+36,2016,5.947,SP.DYN.TFRT.IN,TCD,Chad,Sub-Saharan Africa ,Low income,IDA
+37,2017,5.846,SP.DYN.TFRT.IN,TCD,Chad,Sub-Saharan Africa ,Low income,IDA
+38,2018,5.747,SP.DYN.TFRT.IN,TCD,Chad,Sub-Saharan Africa ,Low income,IDA
+39,2019,5.649,SP.DYN.TFRT.IN,TCD,Chad,Sub-Saharan Africa ,Low income,IDA
+40,2015,3.029,SP.DYN.TFRT.IN,GTM,Guatemala,Latin America & Caribbean ,Upper middle income,IBRD
+41,2016,2.973,SP.DYN.TFRT.IN,GTM,Guatemala,Latin America & Caribbean ,Upper middle income,IBRD
+42,2017,2.92,SP.DYN.TFRT.IN,GTM,Guatemala,Latin America & Caribbean ,Upper middle income,IBRD
+43,2018,2.87,SP.DYN.TFRT.IN,GTM,Guatemala,Latin America & Caribbean ,Upper middle income,IBRD
+44,2019,2.822,SP.DYN.TFRT.IN,GTM,Guatemala,Latin America & Caribbean ,Upper middle income,IBRD
+45,2015,4.157,SP.DYN.TFRT.IN,RWA,Rwanda,Sub-Saharan Africa ,Low income,IDA
+46,2016,4.123,SP.DYN.TFRT.IN,RWA,Rwanda,Sub-Saharan Africa ,Low income,IDA
+47,2017,4.088,SP.DYN.TFRT.IN,RWA,Rwanda,Sub-Saharan Africa ,Low income,IDA
+48,2018,4.044,SP.DYN.TFRT.IN,RWA,Rwanda,Sub-Saharan Africa ,Low income,IDA
+49,2019,3.99,SP.DYN.TFRT.IN,RWA,Rwanda,Sub-Saharan Africa ,Low income,IDA
+50,2015,3.896,SP.DYN.TFRT.IN,ZWE,Zimbabwe,Sub-Saharan Africa ,Lower middle income,Blend
+51,2016,3.8040000000000003,SP.DYN.TFRT.IN,ZWE,Zimbabwe,Sub-Saharan Africa ,Lower middle income,Blend
+52,2017,3.707,SP.DYN.TFRT.IN,ZWE,Zimbabwe,Sub-Saharan Africa ,Lower middle income,Blend
+53,2018,3.615,SP.DYN.TFRT.IN,ZWE,Zimbabwe,Sub-Saharan Africa ,Lower middle income,Blend
+54,2019,3.531,SP.DYN.TFRT.IN,ZWE,Zimbabwe,Sub-Saharan Africa ,Lower middle income,Blend
+55,2015,63.377,SP.DYN.LE00.IN,AFG,Afghanistan,South Asia,Low income,IDA
+56,2016,63.763,SP.DYN.LE00.IN,AFG,Afghanistan,South Asia,Low income,IDA
+57,2017,64.13,SP.DYN.LE00.IN,AFG,Afghanistan,South Asia,Low income,IDA
+58,2018,64.486,SP.DYN.LE00.IN,AFG,Afghanistan,South Asia,Low income,IDA
+59,2019,64.833,SP.DYN.LE00.IN,AFG,Afghanistan,South Asia,Low income,IDA
+60,2015,53.137,SP.DYN.LE00.IN,TCD,Chad,Sub-Saharan Africa ,Low income,IDA
+61,2016,53.438,SP.DYN.LE00.IN,TCD,Chad,Sub-Saharan Africa ,Low income,IDA
+62,2017,53.712,SP.DYN.LE00.IN,TCD,Chad,Sub-Saharan Africa ,Low income,IDA
+63,2018,53.977,SP.DYN.LE00.IN,TCD,Chad,Sub-Saharan Africa ,Low income,IDA
+64,2019,54.239,SP.DYN.LE00.IN,TCD,Chad,Sub-Saharan Africa ,Low income,IDA
+65,2015,73.25,SP.DYN.LE00.IN,GTM,Guatemala,Latin America & Caribbean ,Upper middle income,IBRD
+66,2016,73.541,SP.DYN.LE00.IN,GTM,Guatemala,Latin America & Caribbean ,Upper middle income,IBRD
+67,2017,73.81,SP.DYN.LE00.IN,GTM,Guatemala,Latin America & Caribbean ,Upper middle income,IBRD
+68,2018,74.063,SP.DYN.LE00.IN,GTM,Guatemala,Latin America & Caribbean ,Upper middle income,IBRD
+69,2019,74.302,SP.DYN.LE00.IN,GTM,Guatemala,Latin America & Caribbean ,Upper middle income,IBRD
+70,2015,67.45,SP.DYN.LE00.IN,RWA,Rwanda,Sub-Saharan Africa ,Low income,IDA
+71,2016,67.93,SP.DYN.LE00.IN,RWA,Rwanda,Sub-Saharan Africa ,Low income,IDA
+72,2017,68.341,SP.DYN.LE00.IN,RWA,Rwanda,Sub-Saharan Africa ,Low income,IDA
+73,2018,68.7,SP.DYN.LE00.IN,RWA,Rwanda,Sub-Saharan Africa ,Low income,IDA
+74,2019,69.024,SP.DYN.LE00.IN,RWA,Rwanda,Sub-Saharan Africa ,Low income,IDA
+75,2015,59.534,SP.DYN.LE00.IN,ZWE,Zimbabwe,Sub-Saharan Africa ,Lower middle income,Blend
+76,2016,60.294,SP.DYN.LE00.IN,ZWE,Zimbabwe,Sub-Saharan Africa ,Lower middle income,Blend
+77,2017,60.812,SP.DYN.LE00.IN,ZWE,Zimbabwe,Sub-Saharan Africa ,Lower middle income,Blend
+78,2018,61.195,SP.DYN.LE00.IN,ZWE,Zimbabwe,Sub-Saharan Africa ,Lower middle income,Blend
+79,2019,61.49,SP.DYN.LE00.IN,ZWE,Zimbabwe,Sub-Saharan Africa ,Lower middle income,Blend
+80,2015,9.35507,UIS.SLE.123,AFG,Afghanistan,South Asia,Low income,IDA
+81,2016,9.26709,UIS.SLE.123,AFG,Afghanistan,South Asia,Low income,IDA
+82,2017,9.36697,UIS.SLE.123,AFG,Afghanistan,South Asia,Low income,IDA
+83,2018,9.58062,UIS.SLE.123,AFG,Afghanistan,South Asia,Low income,IDA
+84,2015,7.18679,UIS.SLE.123,TCD,Chad,Sub-Saharan Africa ,Low income,IDA
+85,2016,6.92852,UIS.SLE.123,TCD,Chad,Sub-Saharan Africa ,Low income,IDA
+86,2017,6.27092,UIS.SLE.123,TCD,Chad,Sub-Saharan Africa ,Low income,IDA
+87,2018,6.9194700000000005,UIS.SLE.123,TCD,Chad,Sub-Saharan Africa ,Low income,IDA
+88,2019,6.91521,UIS.SLE.123,TCD,Chad,Sub-Saharan Africa ,Low income,IDA
+89,2015,9.41088,UIS.SLE.123,GTM,Guatemala,Latin America & Caribbean ,Upper middle income,IBRD
+90,2016,9.3145,UIS.SLE.123,GTM,Guatemala,Latin America & Caribbean ,Upper middle income,IBRD
+91,2017,9.27948,UIS.SLE.123,GTM,Guatemala,Latin America & Caribbean ,Upper middle income,IBRD
+92,2018,9.30766,UIS.SLE.123,GTM,Guatemala,Latin America & Caribbean ,Upper middle income,IBRD
+93,2019,9.1789,UIS.SLE.123,GTM,Guatemala,Latin America & Caribbean ,Upper middle income,IBRD
+94,2015,10.63686,UIS.SLE.123,RWA,Rwanda,Sub-Saharan Africa ,Low income,IDA
+95,2016,11.02909,UIS.SLE.123,RWA,Rwanda,Sub-Saharan Africa ,Low income,IDA
+96,2017,11.03305,UIS.SLE.123,RWA,Rwanda,Sub-Saharan Africa ,Low income,IDA
+97,2018,10.74334,UIS.SLE.123,RWA,Rwanda,Sub-Saharan Africa ,Low income,IDA
+98,2019,10.81809,UIS.SLE.123,RWA,Rwanda,Sub-Saharan Africa ,Low income,IDA
+99,2015,4.0,SH.STA.SUIC.P5,AFG,Afghanistan,South Asia,Low income,IDA
+100,2016,4.0,SH.STA.SUIC.P5,AFG,Afghanistan,South Asia,Low income,IDA
+101,2017,4.1,SH.STA.SUIC.P5,AFG,Afghanistan,South Asia,Low income,IDA
+102,2018,4.1,SH.STA.SUIC.P5,AFG,Afghanistan,South Asia,Low income,IDA
+103,2019,4.1,SH.STA.SUIC.P5,AFG,Afghanistan,South Asia,Low income,IDA
+104,2015,6.8,SH.STA.SUIC.P5,TCD,Chad,Sub-Saharan Africa ,Low income,IDA
+105,2016,6.7,SH.STA.SUIC.P5,TCD,Chad,Sub-Saharan Africa ,Low income,IDA
+106,2017,6.7,SH.STA.SUIC.P5,TCD,Chad,Sub-Saharan Africa ,Low income,IDA
+107,2018,6.6,SH.STA.SUIC.P5,TCD,Chad,Sub-Saharan Africa ,Low income,IDA
+108,2019,6.4,SH.STA.SUIC.P5,TCD,Chad,Sub-Saharan Africa ,Low income,IDA
+109,2015,5.8,SH.STA.SUIC.P5,GTM,Guatemala,Latin America & Caribbean ,Upper middle income,IBRD
+110,2016,5.7,SH.STA.SUIC.P5,GTM,Guatemala,Latin America & Caribbean ,Upper middle income,IBRD
+111,2017,5.6,SH.STA.SUIC.P5,GTM,Guatemala,Latin America & Caribbean ,Upper middle income,IBRD
+112,2018,6.0,SH.STA.SUIC.P5,GTM,Guatemala,Latin America & Caribbean ,Upper middle income,IBRD
+113,2019,5.9,SH.STA.SUIC.P5,GTM,Guatemala,Latin America & Caribbean ,Upper middle income,IBRD
+114,2015,5.7,SH.STA.SUIC.P5,RWA,Rwanda,Sub-Saharan Africa ,Low income,IDA
+115,2016,5.7,SH.STA.SUIC.P5,RWA,Rwanda,Sub-Saharan Africa ,Low income,IDA
+116,2017,5.6,SH.STA.SUIC.P5,RWA,Rwanda,Sub-Saharan Africa ,Low income,IDA
+117,2018,5.6,SH.STA.SUIC.P5,RWA,Rwanda,Sub-Saharan Africa ,Low income,IDA
+118,2019,5.6,SH.STA.SUIC.P5,RWA,Rwanda,Sub-Saharan Africa ,Low income,IDA
+119,2015,18.0,SH.STA.SUIC.P5,ZWE,Zimbabwe,Sub-Saharan Africa ,Lower middle income,Blend
+120,2016,16.8,SH.STA.SUIC.P5,ZWE,Zimbabwe,Sub-Saharan Africa ,Lower middle income,Blend
+121,2017,15.0,SH.STA.SUIC.P5,ZWE,Zimbabwe,Sub-Saharan Africa ,Lower middle income,Blend
+122,2018,14.0,SH.STA.SUIC.P5,ZWE,Zimbabwe,Sub-Saharan Africa ,Lower middle income,Blend
+123,2019,14.1,SH.STA.SUIC.P5,ZWE,Zimbabwe,Sub-Saharan Africa ,Lower middle income,Blend
+124,2015,48.6070493694,SP.POP.TOTL.FE.ZS,AFG,Afghanistan,South Asia,Low income,IDA
+125,2016,48.5996676147,SP.POP.TOTL.FE.ZS,AFG,Afghanistan,South Asia,Low income,IDA
+126,2017,48.6116157183,SP.POP.TOTL.FE.ZS,AFG,Afghanistan,South Asia,Low income,IDA
+127,2018,48.6358467017,SP.POP.TOTL.FE.ZS,AFG,Afghanistan,South Asia,Low income,IDA
+128,2019,48.6623948521,SP.POP.TOTL.FE.ZS,AFG,Afghanistan,South Asia,Low income,IDA
+129,2020,48.6845201032,SP.POP.TOTL.FE.ZS,AFG,Afghanistan,South Asia,Low income,IDA
+130,2015,50.0974525424,SP.POP.TOTL.FE.ZS,TCD,Chad,Sub-Saharan Africa ,Low income,IDA
+131,2016,50.093354754,SP.POP.TOTL.FE.ZS,TCD,Chad,Sub-Saharan Africa ,Low income,IDA
+132,2017,50.0890837911,SP.POP.TOTL.FE.ZS,TCD,Chad,Sub-Saharan Africa ,Low income,IDA
+133,2018,50.0848994171,SP.POP.TOTL.FE.ZS,TCD,Chad,Sub-Saharan Africa ,Low income,IDA
+134,2019,50.081012702,SP.POP.TOTL.FE.ZS,TCD,Chad,Sub-Saharan Africa ,Low income,IDA
+135,2020,50.0776793469,SP.POP.TOTL.FE.ZS,TCD,Chad,Sub-Saharan Africa ,Low income,IDA
+136,2015,50.8073410583,SP.POP.TOTL.FE.ZS,GTM,Guatemala,Latin America & Caribbean ,Upper middle income,IBRD
+137,2016,50.7915267123,SP.POP.TOTL.FE.ZS,GTM,Guatemala,Latin America & Caribbean ,Upper middle income,IBRD
+138,2017,50.7753867149,SP.POP.TOTL.FE.ZS,GTM,Guatemala,Latin America & Caribbean ,Upper middle income,IBRD
+139,2018,50.7593494959,SP.POP.TOTL.FE.ZS,GTM,Guatemala,Latin America & Caribbean ,Upper middle income,IBRD
+140,2019,50.7438965875,SP.POP.TOTL.FE.ZS,GTM,Guatemala,Latin America & Caribbean ,Upper middle income,IBRD
+141,2020,50.7293908141,SP.POP.TOTL.FE.ZS,GTM,Guatemala,Latin America & Caribbean ,Upper middle income,IBRD
+142,2015,50.8961598077,SP.POP.TOTL.FE.ZS,RWA,Rwanda,Sub-Saharan Africa ,Low income,IDA
+143,2016,50.8829892014,SP.POP.TOTL.FE.ZS,RWA,Rwanda,Sub-Saharan Africa ,Low income,IDA
+144,2017,50.8715244855,SP.POP.TOTL.FE.ZS,RWA,Rwanda,Sub-Saharan Africa ,Low income,IDA
+145,2018,50.8610613472,SP.POP.TOTL.FE.ZS,RWA,Rwanda,Sub-Saharan Africa ,Low income,IDA
+146,2019,50.850427871,SP.POP.TOTL.FE.ZS,RWA,Rwanda,Sub-Saharan Africa ,Low income,IDA
+147,2020,50.8390344844,SP.POP.TOTL.FE.ZS,RWA,Rwanda,Sub-Saharan Africa ,Low income,IDA
+148,2015,52.4506100122,SP.POP.TOTL.FE.ZS,ZWE,Zimbabwe,Sub-Saharan Africa ,Lower middle income,Blend
+149,2016,52.4301837917,SP.POP.TOTL.FE.ZS,ZWE,Zimbabwe,Sub-Saharan Africa ,Lower middle income,Blend
+150,2017,52.3969594143,SP.POP.TOTL.FE.ZS,ZWE,Zimbabwe,Sub-Saharan Africa ,Lower middle income,Blend
+151,2018,52.3567520652,SP.POP.TOTL.FE.ZS,ZWE,Zimbabwe,Sub-Saharan Africa ,Lower middle income,Blend
+152,2019,52.3173269993,SP.POP.TOTL.FE.ZS,ZWE,Zimbabwe,Sub-Saharan Africa ,Lower middle income,Blend
+153,2020,52.2838940136,SP.POP.TOTL.FE.ZS,ZWE,Zimbabwe,Sub-Saharan Africa ,Lower middle income,Blend
+154,2015,80.2,SG.VAW.REAS.ZS,AFG,Afghanistan,South Asia,Low income,IDA
+155,2015,73.5,SG.VAW.REAS.ZS,TCD,Chad,Sub-Saharan Africa ,Low income,IDA
+156,2015,11.0,SG.VAW.REAS.ZS,GTM,Guatemala,Latin America & Caribbean ,Upper middle income,IBRD
+157,2015,41.4,SG.VAW.REAS.ZS,RWA,Rwanda,Sub-Saharan Africa ,Low income,IDA
+158,2015,38.7,SG.VAW.REAS.ZS,ZWE,Zimbabwe,Sub-Saharan Africa ,Lower middle income,Blend
+159,2015,2087.3053230668,NY.GDP.PCAP.PP.CD,AFG,Afghanistan,South Asia,Low income,IDA
+160,2016,1981.1180685363,NY.GDP.PCAP.PP.CD,AFG,Afghanistan,South Asia,Low income,IDA
+161,2017,2058.4002210194,NY.GDP.PCAP.PP.CD,AFG,Afghanistan,South Asia,Low income,IDA
+162,2018,2082.6356482541,NY.GDP.PCAP.PP.CD,AFG,Afghanistan,South Asia,Low income,IDA
+163,2019,2152.366489445,NY.GDP.PCAP.PP.CD,AFG,Afghanistan,South Asia,Low income,IDA
+164,2015,1820.0599087617,NY.GDP.PCAP.PP.CD,TCD,Chad,Sub-Saharan Africa ,Low income,IDA
+165,2016,1664.5125859939,NY.GDP.PCAP.PP.CD,TCD,Chad,Sub-Saharan Africa ,Low income,IDA
+166,2017,1587.0323278473,NY.GDP.PCAP.PP.CD,TCD,Chad,Sub-Saharan Africa ,Low income,IDA
+167,2018,1614.1682869198,NY.GDP.PCAP.PP.CD,TCD,Chad,Sub-Saharan Africa ,Low income,IDA
+168,2019,1646.4283905402,NY.GDP.PCAP.PP.CD,TCD,Chad,Sub-Saharan Africa ,Low income,IDA
+169,2015,8194.4406812682,NY.GDP.PCAP.PP.CD,GTM,Guatemala,Latin America & Caribbean ,Upper middle income,IBRD
+170,2016,8221.7464272219,NY.GDP.PCAP.PP.CD,GTM,Guatemala,Latin America & Caribbean ,Upper middle income,IBRD
+171,2017,8317.3641011583,NY.GDP.PCAP.PP.CD,GTM,Guatemala,Latin America & Caribbean ,Upper middle income,IBRD
+172,2018,8654.6428090571,NY.GDP.PCAP.PP.CD,GTM,Guatemala,Latin America & Caribbean ,Upper middle income,IBRD
+173,2019,8982.9940399783,NY.GDP.PCAP.PP.CD,GTM,Guatemala,Latin America & Caribbean ,Upper middle income,IBRD
+174,2015,1805.9009613491,NY.GDP.PCAP.PP.CD,RWA,Rwanda,Sub-Saharan Africa ,Low income,IDA
+175,2016,1883.8416082137,NY.GDP.PCAP.PP.CD,RWA,Rwanda,Sub-Saharan Africa ,Low income,IDA
+176,2017,1975.2486611327,NY.GDP.PCAP.PP.CD,RWA,Rwanda,Sub-Saharan Africa ,Low income,IDA
+177,2018,2137.9392354431,NY.GDP.PCAP.PP.CD,RWA,Rwanda,Sub-Saharan Africa ,Low income,IDA
+178,2019,2321.3696378864,NY.GDP.PCAP.PP.CD,RWA,Rwanda,Sub-Saharan Africa ,Low income,IDA
+179,2015,2679.5076148374,NY.GDP.PCAP.PP.CD,ZWE,Zimbabwe,Sub-Saharan Africa ,Lower middle income,Blend
+180,2016,2806.4690320362,NY.GDP.PCAP.PP.CD,ZWE,Zimbabwe,Sub-Saharan Africa ,Lower middle income,Blend
+181,2017,3028.2770313503,NY.GDP.PCAP.PP.CD,ZWE,Zimbabwe,Sub-Saharan Africa ,Lower middle income,Blend
+182,2018,2090.7111277625,NY.GDP.PCAP.PP.CD,ZWE,Zimbabwe,Sub-Saharan Africa ,Lower middle income,Blend
+183,2019,411.1699043726,NY.GDP.PCAP.PP.CD,ZWE,Zimbabwe,Sub-Saharan Africa ,Lower middle income,Blend
